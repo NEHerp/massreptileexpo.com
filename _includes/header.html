@@ -1,0 +1,20 @@
+    <div class="blog-masthead">
+      <div class="container">
+        <nav class="nav blog-nav">
+        {% for page in site.pages %}
+          {% if page.title %}
+          <a class="nav-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% endif %}
+        {% endfor %}
+        </nav>
+      </div>
+    </div>
+    <div class="blog-header">
+      <div class="container">
+        <h1 class="blog-title"><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+        <p class="lead blog-description">Next Show date: {{site.data.shows.next_show | date_to_string}} From 10am - 4pm</p>
+      </div>
+    </div>
+    <div class="container">
+
+      <div class="row"> 

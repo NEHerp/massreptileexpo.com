@@ -1,0 +1,7 @@
+vendors:
+    - name: New England Herptological Soceity
+      url: http://neherp.com
+      vip: true
+    - name: ReptileInventory.com
+      url: http://ReptileInventory.com
+      vip: false
