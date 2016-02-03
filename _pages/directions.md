@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Directions
+menu: Directions
 permalink: /directions/
 ---
 

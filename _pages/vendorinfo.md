@@ -14,7 +14,7 @@ Please be sure to add this information in the NOTES section:
 
 	- full name
 	- email address
-	- the date of the show (next show: {{site.data.shows.next_show | date_to_string}})
+	- the date of the show (next show: {{site.data.general.next_show | date_to_string}})
 	- number of tables
 	- if you will be bringing your own tables
 	- company name
