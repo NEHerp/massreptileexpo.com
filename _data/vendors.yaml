@@ -1,7 +1,73 @@
-vendors:
-    - name: New England Herptological Soceity
-      url: http://neherp.com
-      vip: true
-    - name: ReptileInventory.com
-      url: http://ReptileInventory.com
-      vip: false
+vendors: yoyoyo
+vendor:
+  - name: 4G Reptile Crafts
+
+  - name: A+ Serpents
+    url: https://www.facebook.com/APlusSerpents/
+
+  - name: Action Reptiles
+    url: https://www.facebook.com/Action-Reptiles-305603720086
+
+  - name: Arachnoiden
+    url: http://arachnoiden.com/
+
+  - name: CV Exotics
+    url: https://www.facebook.com/CV-Exotics-180050035378873/
+
+  - name: Dinky Reptiles
+    url: https://www.facebook.com/Dinkyreptilesandaquatics
+
+  - name: East Coast Bearded Dragons
+    url: https://www.facebook.com/East-Coast-Bearded-Dragons-383903015126720/
+
+  - name: East Coast Reptile Exchange
+
+  - name: Gecko Sanctuary
+    url: http://www.geckosanctuary.org/
+
+  - name: Glen Echo Reptile
+
+  - name: Groveland Geckos
+    url: https://www.facebook.com/GrovelandGecko
+
+  - name: Hilltop Hognose
+    url: https://www.facebook.com/tothh.hognose/
+
+  - name: It's A Pet's World
+    url: https://www.facebook.com/itsapetsworld/
+
+  - name: JPCBoas
+    url: https://www.facebook.com/jpcboa
+
+  - name: Jurrasic Jungle
+    url: https://www.facebook.com/Jurassic-Jungle-468152383252214/
+
+  - name: Ken Merchant
+
+  - name: Loki Reptiles
+    url: https://www.facebook.com/LOKIREPTILES/
+
+  - name: New England Herpetological Society
+    url: http://neherp.com
+
+  - name: S&S Reptiles 
+
+  - name: Sabrina's Reptile Kingdom
+    url: https://www.facebook.com/Sabrinas-Reptile-Kingdom-128352193874603/
+
+  - name: Sherman Tanks
+    url: https://www.facebook.com/shermantanks.co/
+
+  - name: Signature Design Exotics
+    url: https://www.facebook.com/Signature-Design-Exotics-530581127116419
+
+  - name: Speckle Geckos
+    url: https://www.facebook.com/Speckles-Geckos-124354914377982/
+
+  - name: Squeals On Wheels
+    url: https://www.facebook.com/squealsonwheelsfrozenfeeders/
+
+  - name: Stacie's Spiders & Stuff
+    url: https://www.facebook.com/Stacies-Spiders-Stuff-1592709497658197/
+
+  - name: Troy Taylor
