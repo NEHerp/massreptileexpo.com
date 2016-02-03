@@ -1,5 +1,4 @@
-vendors: yoyoyo
-vendor:
+show_vendors: 
   - name: 4G Reptile Crafts
 
   - name: A+ Serpents
