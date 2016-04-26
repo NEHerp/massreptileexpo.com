@@ -7,8 +7,12 @@ vendors:
   - name: Action Reptiles
     url: https://www.facebook.com/Action-Reptiles-305603720086
 
+  - name: Animal Instincts
+
   - name: Arachnoiden
     url: http://arachnoiden.com/
+
+  - name: Beantown Arboreals 
 
   - name: CV Exotics
     url: https://www.facebook.com/CV-Exotics-180050035378873/
@@ -29,11 +33,12 @@ vendors:
   - name: Groveland Geckos
     url: https://www.facebook.com/GrovelandGecko
 
-  - name: Hilltop Hognose
-    url: https://www.facebook.com/tothh.hognose/
+  - name: Island Giants
 
   - name: It's A Pet's World
     url: https://www.facebook.com/itsapetsworld/
+
+  - name: Jabberwock Reptiles
 
   - name: JPCBoas
     url: https://www.facebook.com/jpcboa
@@ -46,19 +51,28 @@ vendors:
   - name: Loki Reptiles
     url: https://www.facebook.com/LOKIREPTILES/
 
+  - name: Mojo Herps
+
   - name: New England Herpetological Society
     url: http://neherp.com
 
-  - name: S&S Reptiles 
+  - name: Reptile Inventory
+    url: http://https://reptileinventory.com/
 
   - name: Sabrina's Reptile Kingdom
     url: https://www.facebook.com/Sabrinas-Reptile-Kingdom-128352193874603/
+
+  - name: Scutes N' Scales
 
   - name: Sherman Tanks
     url: https://www.facebook.com/shermantanks.co/
 
   - name: Signature Design Exotics
     url: https://www.facebook.com/Signature-Design-Exotics-530581127116419
+
+  - name: SolarCity
+
+  - name: Something Fishy
 
   - name: Speckle Geckos
     url: https://www.facebook.com/Speckles-Geckos-124354914377982/
@@ -68,5 +82,9 @@ vendors:
 
   - name: Stacie's Spiders & Stuff
     url: https://www.facebook.com/Stacies-Spiders-Stuff-1592709497658197/
+
+  - name: THROUGH-MY-EYES-PHOTOGRAPHY
+
+  - name: Tiff Tiff's Reptiles
 
   - name: Troy Taylor
