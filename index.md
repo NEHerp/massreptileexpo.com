@@ -12,10 +12,12 @@ For Sale And On Exhibit
 100+ tables of dealers, breeders and hobbyists exhibiting and selling a wide variety of colorful and unusual reptiles, amphibians, and invertebrates. Tanks, cages, terrarium supplies, books, and food animals at special show prices.
 
  
-OUR NEXT SHOW:  
+OUR NEXT SHOWs:  
 Sunday, May 15th, 2016  
 10:00am - 4:00pm  
  
+Sunday, Sept 25 2016
+10:00am - 4:00pm
 
 The Shaw's Center  
 1 Feinberg Way, Brockton, MA 02301  
