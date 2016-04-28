@@ -16,8 +16,8 @@ OUR NEXT SHOWs:
 Sunday, May 15th, 2016  
 10:00am - 4:00pm  
  
-Sunday, Sept 25 2016 
-10:00am - 4:00pm
+Sunday, Sept 25 2016  
+10:00am - 4:00pm  
 
 The Shaw's Center  
 1 Feinberg Way, Brockton, MA 02301  
