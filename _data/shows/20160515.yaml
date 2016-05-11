@@ -46,9 +46,14 @@ vendors:
 
   - name: Glen Echo Reptile
 
+  - name: Graham Burger
+  
   - name: Groveland Geckos
     url: https://www.facebook.com/GrovelandGecko
 
+  - name: Harris in Wonderland 
+    url: http://harrisinwonderland.com/
+    
   - name: Island Giants
 
   - name: It's A Pet's World
@@ -93,6 +98,9 @@ vendors:
   - name: Signature Design Exotics
     url: https://www.facebook.com/Signature-Design-Exotics-530581127116419
 
+  - name: Slither and Swim
+    url: http://slitherandswimpets.com/
+    
   - name: SolarCity
 
   - name: Speckle Geckos
