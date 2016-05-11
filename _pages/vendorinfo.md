@@ -7,7 +7,7 @@ permalink: /vendor_info/
 
 #### Tables Are Currently Sold out for the {{site.data.general.next_show | date_to_string}} Show!
 
-Tables for the next show will go on sale June 6th
+Tables for the fall show will go on sale June 6th
 
 {% comment %} 
 #### Tables Are Currently Available For The Next Show!  
