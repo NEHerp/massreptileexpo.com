@@ -14,7 +14,7 @@ Rules and Regulations
 6. All animals must be sold by Vendors only inside the venue. No sales in the parking lot or surrounding area will be permitted.
 7. No sale of Animals on the [Commonwealth of Massachusetts Restricted Herptiles List]({{site.data.general.restricted_list_link}}) are allowed.
 8. The Commonwealth of Massachusetts does not allow the sale of native herptile species as per [MGL Chap. 131: Section 22](http://www.mass.gov/legis/laws/mgl/131-22.htm).
-9. Educational displays of endangered and/or native species must be accompanied by legal documentation and/or permits.
+9. Educational displays of endangered or otherwise restricted species must be accompanied by a valid Massachusetts permit listing the species in question. Native species may only be displayed by those vendors who have secured a free, educational table.
 10. No venomous animal sales are allowed.
 11. No turtles and tortoises under 4 inches long. 
 12. No carry-in reptiles are allowed. VENDOR SALES ONLY!
