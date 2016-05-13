@@ -24,7 +24,6 @@ Massachusetts Reptile Expo requires all vendors and exhibitors to be in full com
 - All crocodilians
 - All venomous reptiles.
 - Turtles and tortoises under 4 inches long
-- Reptiles and amphibians native to Massachusetts
 - Live mammals or birds, except eyes closed feeder rats & mice.
 
 For a complete List checkout the NEHS [Commonwealth of Massachusetts Restricted Herptiles List]({{site.data.general.restricted_list_link}}).
