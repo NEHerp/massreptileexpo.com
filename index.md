@@ -13,34 +13,18 @@ For Sale And On Exhibit
 
  
 OUR NEXT SHOWS:  
-Sunday, May 15th, 2016  
-10:00am - 4:00pm  
- 
 Sunday, Sept 25 2016  
 10:00am - 4:00pm  
 
-The Shaw's Center  
-1 Feinberg Way, Brockton, MA 02301  
-(GPS Address -700 Belmont St Brockton MA)  
+Lombardo's
+6 Billings St, Randolph, MA 02368
 
-Please do not call The Shaw's Center for information about our show. 
+Please do not call Lombardo's for information about our show. 
 
 If you can't find answers here on the website, please call the NEHS Herpline at 617-789-5800.
-
-(approx 1 mile off of Route 24 at exit 17A)  
-Free Parking  
-Mass Transit Accessible!!!  
-(Bus Route 3 from the Brockton Train Station)  
- 
 
 Admission  
 8 yrs & up:   $5  
 Under 8:     Free  
- 
-
-Presented with generous support from
-
-[![Bostonrox logo](/assets/rox_logo.png)](http://www.brocktonrox.com/view/brocktonrox)
-
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
