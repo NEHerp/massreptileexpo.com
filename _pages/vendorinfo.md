@@ -65,7 +65,7 @@ Tables must be claimed before 9:30am or they will be released to other vendors w
 
 There are electrical outlets within about 20-25 feet of every vendor table.  Vendors are responsible for providing their own extension cord to extend from their table to the nearest outlet.  While outlets are in ready supply, the service is limited.  Please keep your electrical demands to a minimum.
 
-Vendor setup is from 8:00am until 9:45am.  The EXPO will be open from 10:00am to 4:00pm.  The Shaw's Center has ample free parking.
+Vendor setup is from 8:00am until 9:45am.  The EXPO will be open from 10:00am to 4:00pm.  Lombardo's has ample free parking.
 
 Please familiarize yourself with all event [Rules and Regulations](/rules/) and the [Restricted Animals list](/restricted_animals/).
 
