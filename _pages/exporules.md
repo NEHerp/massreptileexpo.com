@@ -27,7 +27,7 @@ Rules and Regulations
 19. Animals may be uncontained only at vendor tables.
 20. Vendors assume all responsibility for animals brought to the expo.
 21. Injuries caused by animals brought by a vendor are the sole responsibility and liability of that vendor.
-22. Neither the event coordinators nor The Shaw's Center shall be held responsible for lost, stolen, or damaged property, or any injuries that may occur during the show.
+22. Neither the event coordinators nor Lombardo's shall be held responsible for lost, stolen, or damaged property, or any injuries that may occur during the show.
 23. All vendors and booth staff must maintain a professional attitude at all times during the expo. Any participants in disruptive arguments will be asked to leave.
 24. An inspection of tables and animals will occur before and during the expo. We wish to present a professional image so try and keep your tables and animals as clean and organized as possible.
 25. The staff reserves the right to refuse entry or to evict any vendor not in compliance with any of the expo regulations without refund.
