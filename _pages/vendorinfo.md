@@ -37,12 +37,12 @@ For information, email vendors@massreptileexpo.com
 
 
 The Massachusetts Reptile Expo will be held at:  
-***The Shaw's Center***  
-1 Feinberg Way  
-Brockton, MA
+***Lombardo’s***
+6 Billings St, 
+Randolph, MA 02368
  
-
-There is no outside food allowed in the Shaw's Center. There will be complimentary coffee and muffins in the foyer in the morning. Food will be available for purchase inside the venue.
+ 
+There is no outside food allowed in Lombardo’s. There will be complimentary coffee and muffins in the foyer in the morning. Food will be available for purchase inside the venue.
 
  
 Vendor Information  
@@ -50,7 +50,7 @@ Fee Schedule (per 6' space*):
 
 | Vendor Type | Table Fee |
 |-----------|---------|
-| Commercial Vendor Table - 6' x 30" | $40  |
+| Commercial Vendor Table - 8' x 30" | $40  |
 | Educational (Display Only, no sales allowed) | Free* |
 | Scientific Organization (Zoo, aquarium, science center) |	Free* |
 
