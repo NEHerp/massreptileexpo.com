@@ -37,7 +37,7 @@ For information, email vendors@massreptileexpo.com
 
 
 The Massachusetts Reptile Expo will be held at:  
-***Lombardo’s***
+***Lombardo’s*** 
 6 Billings St, 
 Randolph, MA 02368
  
