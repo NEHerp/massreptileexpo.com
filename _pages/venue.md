@@ -5,20 +5,16 @@ permalink: /venue/
 ---
 
 
-![Shaw's Center Logo](/assets/the_shaws_logo.jpg)
+![lombardos Logo](http://www.lombardos.com/wp-content/uploads/2012/12/lombardos-294-50B.png)
 
-### @ Campanelli Stadium  
-1 Feinberg Way, Brockton, MA  02310  
-(GPS This Address -700 Belmont St Brockton MA)  
-
-(approx. 1 mile off of Route 24 at exit 17A, click directions tab for map)
+### Lombardo's 
+6 Billings St, Randolph, MA 02368
 
 **Ample Free Parking**  
 **Transit Accessible!!!**
  
 
-Please do not call The Shaw's Center for information about our show. 
+Please do not call Lombardo's for information about our show. 
 
- 
 
 Can't find answers on the website? Please call the NEHS Herpline at 617-789-5800.
