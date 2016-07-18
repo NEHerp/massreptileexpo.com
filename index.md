@@ -17,6 +17,7 @@ Sunday, Sept 25 2016
 10:00am - 4:00pm  
 
 Lombardo's
+
 6 Billings St, Randolph, MA 02368
 
 Please do not call Lombardo's for information about our show. 
