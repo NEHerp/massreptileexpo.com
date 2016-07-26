@@ -9,7 +9,6 @@ permalink: /vendor_info/
 
 Tables for the fall show will go on sale June 6th
 
-{% comment %} 
 #### Tables Are Currently Available For The Next Show!  
 
 Vendors will only be able to buy tables through PayPal payments. Order your tables now by clicking the Buy It Now Button.
@@ -31,7 +30,6 @@ Your table will be reserved upon receiving this information and payment.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" /> <input name="hosted_button_id" type="hidden" value="E4FBZH99MCBPC" /> <input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" type="image" /> <img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="Paypal Pixel" width="1" height="1" border="0" /></form>
 
-{% endcomment %} 
 
 For information, email vendors@massreptileexpo.com
 
