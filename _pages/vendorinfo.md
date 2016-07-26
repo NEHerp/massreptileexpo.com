@@ -5,10 +5,6 @@ permalink: /vendor_info/
 ---
 
 
-#### Tables Are Currently Sold out for the {{site.data.general.next_show | date_to_string}} Show!
-
-Tables for the fall show will go on sale June 6th
-
 #### Tables Are Currently Available For The Next Show!  
 
 Vendors will only be able to buy tables through PayPal payments. Order your tables now by clicking the Buy It Now Button.
