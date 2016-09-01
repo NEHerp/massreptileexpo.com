@@ -35,9 +35,6 @@ The Massachusetts Reptile Expo will be held at:
 
 6 Billings St, 
 Randolph, MA 02368
- 
- 
-There is no outside food allowed in Lombardo’s. There will be complimentary coffee and muffins in the foyer in the morning. Food will be available for purchase inside the venue.
 
  
 Vendor Information  
