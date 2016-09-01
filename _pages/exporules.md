@@ -35,5 +35,3 @@ Rules and Regulations
 27. Tables must be claimed before 9:45am or they will be released to other vendors without refund.  Please contact us at webmaster@neherp.com if you are running late on show day.
 28. There are electrical outlets within about 20-25 feet of every vendor table.  Vendors are responsible for providing their own extension cord to extend from their table to the nearest outlet.  While outlets are in ready supply, the service is limited.  Please keep your electrical demands to a minimum.
 29. Vendor setup is from 8:00am until 9:45am.  The EXPO will be open from 10:00am to 4:00pm.
-
-There will be no outside food allowed in the venue. There will be complimentary coffee and muffins inside the foyer. Food will be available for purchase inside.
