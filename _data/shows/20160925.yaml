@@ -49,8 +49,19 @@ vendors:
   - name: Loki Reptiles
     url: https://www.facebook.com/LOKIREPTILES/    
     
+  - name: Mojo Herps
+  
   - name: New England Herpetological Society
     url: http://neherp.com
+  
+  - name: New England Reptile Shows  
+    url: http://newenglandreptileshows.com
+    
+  - name: Northeast Natural History & Supply   
+    url: https://sites.google.com/site/northeastnaturalhistory/
+    
+  - name: OSA Reptile Supply
+    url: http://www.facebook.com/OSAOutreach
     
   - name: Rango's Accessories
     url: https://www.facebook.com/Rangosaccessories/
@@ -60,6 +71,9 @@ vendors:
   - name: Sabrina's Reptile Kingdom
     url: https://www.facebook.com/Sabrinas-Reptile-Kingdom-128352193874603/
 
+  - name: Samantha's Geckos
+    url: http://www.samanthasgeckos.com
+  
   - name: Sherman Tanks
     url: https://www.facebook.com/shermantanks.co/    
 
