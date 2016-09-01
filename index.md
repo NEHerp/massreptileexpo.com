@@ -25,7 +25,7 @@ Please do not call Lombardo's for information about our show.
 If you can't find answers here on the website, please call the NEHS Herpline at 617-789-5800.
 
 Admission  
-8 yrs & up:   $5  
+8 yrs & up:   ${{site.data.general.admission_price}}
 Under 8:     Free  
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
