@@ -16,6 +16,8 @@ vendors:
 
   - name: AP Exotic Pets
 
+  - name: AquaAx
+  
   - name: Beantown Arboreals 
 
   - name: Classroom Cresteds
@@ -34,6 +36,8 @@ vendors:
   - name: Ectothermic Dungeon 
     url: http://www.ectothermicdungeon.com
     
+  - name: Goodys exotics
+  
   - name: Groveland Geckos
     url: https://www.facebook.com/GrovelandGecko
 
@@ -56,6 +60,9 @@ vendors:
     
   - name: Mojo Herps
   
+  - name: New England Herpetoculture LLC    
+    url: http://www.neherpetoculture.com/
+
   - name: New England Herpetological Society
     url: http://neherp.com
   
@@ -79,6 +86,9 @@ vendors:
   - name: Samantha's Geckos
     url: http://www.samanthasgeckos.com
   
+  - name: Scutes N' Scales
+    url: https://www.facebook.com/Scalesscutes/
+    
   - name: Sherman Tanks
     url: https://www.facebook.com/shermantanks.co/    
 
