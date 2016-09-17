@@ -11,16 +11,24 @@ vendors:
   - name: Action Reptiles
     url: https://www.facebook.com/Action-Reptiles-305603720086
 
+  - name: AK Exotic
+  
   - name: Animal Instincts
     url: http://www.animalinstincts.biz/
 
   - name: AP Exotic Pets
-
+  
   - name: AquaAx
   
+  - name: Arachnoiden
+  
   - name: Beantown Arboreals 
-
+  
+  - name: Black Panther Zoological
+  
   - name: Classroom Cresteds
+
+  - name: Cold Blooded Pets
   
   - name: CV Exotics
     url: https://www.facebook.com/CV-Exotics-180050035378873/
@@ -36,6 +44,8 @@ vendors:
   - name: Ectothermic Dungeon 
     url: http://www.ectothermicdungeon.com
     
+  - name: Gecko Sanctuary
+  
   - name: Goodys exotics
   
   - name: Groveland Geckos
@@ -52,12 +62,17 @@ vendors:
   - name: Jabberwock Reptiles
     url: http://jabberwockreptiles.com
 
+  - name: Jason's Exotic Reptiles
+    url: http://www.jasonsexoticreptiles.com/
+    
   - name: JPCBoas
     url: https://www.facebook.com/jpcboa
 
   - name: Loki Reptiles
     url: https://www.facebook.com/LOKIREPTILES/    
     
+  - name: Mark Lotterhand
+  
   - name: Mojo Herps
   
   - name: New England Herpetoculture LLC    
