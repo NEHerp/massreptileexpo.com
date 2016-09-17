@@ -25,11 +25,13 @@ vendors:
   - name: Beantown Arboreals 
   
   - name: Black Panther Zoological
+    url: http://www.bpzoological.com
   
   - name: Classroom Cresteds
 
   - name: Cold Blooded Pets
-  
+    url: http://coldbloodedpets.com
+    
   - name: CV Exotics
     url: https://www.facebook.com/CV-Exotics-180050035378873/
   
@@ -45,7 +47,8 @@ vendors:
     url: http://www.ectothermicdungeon.com
     
   - name: Gecko Sanctuary
-  
+    url: http://www.geckosanctuary.org/
+    
   - name: Goodys exotics
   
   - name: Groveland Geckos
