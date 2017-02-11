@@ -29,5 +29,3 @@ If you can't find answers here on the website, please call the NEHS Herpline at 
 Admission  
 8 yrs & up:   ${{site.data.general.admission_price}}  
 Under 8:     Free  
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
