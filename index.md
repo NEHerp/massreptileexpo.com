@@ -16,11 +16,13 @@ OUR NEXT SHOWS:
 Sunday, May 7 2017  
 10:00am - 4:00pm  
 
-Lombardo's
+The Shaw's Center
 
-6 Billings St, Randolph, MA 02368
+1 Feinberg Way  
+Brockton, MA  02301  
+(GPS Address -700 Belmont St Brockton MA)
 
-Please do not call Lombardo's for information about our show. 
+Please do not call the Shaw's center for information about our show. 
 
 If you can't find answers here on the website, please call the NEHS Herpline at 617-789-5800.
 
