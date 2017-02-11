@@ -13,7 +13,7 @@ For Sale And On Exhibit
 
  
 OUR NEXT SHOWS:  
-Sunday, Sept 25 2016  
+Sunday, May 7 2017  
 10:00am - 4:00pm  
 
 Lombardo's
