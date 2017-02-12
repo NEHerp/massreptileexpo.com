@@ -1,4 +1,30 @@
 vendors: 
 
+  - name: Acadia Island Exotics
+    url: https://www.facebook.com/SomethingFishy.mdi/
+    
+  - name: Beantown Arboreals 
+  
+  - name: Dinky Reptiles
+    url: https://www.facebook.com/Dinkyreptilesandaquatics 
+
+  - name: Gecko Sanctuary
+    url: http://www.geckosanctuary.org/
+    
+  - name: Groveland Geckos
+    url: https://www.facebook.com/GrovelandGecko
+
+  - name: New England Herpetological Society
+    url: http://neherp.com
+    
+  - name: New England Reptile Shows  
+    url: http://newenglandreptileshows.com
+    
   - name: Rowe Reptiles
     url: https://www.facebook.com/rowereptiles/
+
+  - name: Sabrina's Reptile Kingdom
+    url: https://www.facebook.com/Sabrinas-Reptile-Kingdom-128352193874603/
+    
+  - name: Stacie's Spiders & Stuff
+    url: https://www.facebook.com/Stacies-Spiders-Stuff-1592709497658197/    
