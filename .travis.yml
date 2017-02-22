@@ -1,15 +1,15 @@
 language: ruby
 rvm:
-  - 2.2.2
-
-script: 
-  - "bundle exec jekyll build"
-  - "bundle exec htmlproofer ./_site --disable-external --allow-hash-href"  
-
+- 2.2.2
+script:
+- bundle exec jekyll build
+- bundle exec htmlproofer ./_site --disable-external --allow-hash-href
 branches:
   only:
-    - gh-pages
-
+  - gh-pages
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  matrix:
+  - secure: F/d9OeDKdDq6d5Yd4ISTSE630MtcNWCPShZ5yqGCZ0whlq68IRqW8vdDin5yvBZ4vVYYhhypY1Go29FMUMb1mgRDUyp+qqlrIux5cooI8mc7h6jc3fe/7U1Un/j+A+6NBPdbaSHroy1m5DVQkELZu/e1fzx+dBUDR648DjZekyXqhl1A9VbdZEyg75TeCfogskCqbEjYHze2v9s9l6YHKdAZEl7xHCZ4MPWu2ZOvpxKU8WHIolqDAeq6lIRPa6LIkdC2yCSTknyHRSlUiVO3J3FStDLGbCsUK5MgrhntXFWmLYC49JYVj7RjwouLX9OA0OxiLsTDFRn7uDKLrGxghDlfKceGUxEsbzMtl+ScPfDi9HO9DcvpTcOh1Mf2KmVIF/3rhDGP/4p6orT37mYm6DCiA9Hw3PrxwVMphyRtjb1Fa5JUHmPDX/FW05zt2/OoKSm+YG8dY5fFNperno0LNoI6UsRWHBasoTD+gESO7rVHejn3WtnPAz9BSdZ27LXfeg2NBkYoLUTHg5blaVtlYsbohG1A9n2dGNIA0wpo/DqD9vAkmFwnP5xiOYoeVTpLGTP5+4OGtJB3KgXsygOKZ920dyEIjzIHgPfZvfhaLu8/ymkyjJc+yKJ9s2NW9FRA1wqJtWzT/MRe0RTHgix1ZUxckp82ksJlqq2jkAQsprs=
+  - secure: q0EJjV5QRkEb5kE+OjhIxq+wa/AKzXrszfZa88HBeh9qNfkYB81bACbP2k2nIdpE+P4b4tKYV+5K8IUHekPwM7ZJh7MCMrWXqoMP7+GWJGGX1rshRsMK+AXNBXTGCVCZ6fuVKWVTD3/codhfEAxBaCOK/qX4zTMGrdBvYA7gqKj+3NKg9f3IyzpD/ngR9bVFxxhSpThMRrrzTSfLkXZGAFqUb6W0PVE2rhcKXUsd/JkwDaUvQUEwdxnmtWPZnRpgfp3CiJzXUw5AqVGhK40yq7dxzTS85H444iaUbMrV0FyYEb5DTueEDs/iolQ/6r2tjCvVshcfiuCoqmrJ87LF3ue+M63J6xa4k2UugjBzAgLmTV5BOUCqBCTH0Rl32lnsE9MkDEczH8z4OStXRDz7v0we2QV6zv/Hj4R/O6O3+qwyvxHG8aryDJS2VxEZwtjaLbv5zjsnGke0kB5ojOMu80B6Mo0mj51EhzqvB+MDA2BCEatoVm9ClfVAfYAxZqYrd7OPW9rVEQ/oEF7EaXjiZfuwngUn9HEI0djy6UbpdCHFBBQAi0rB5L33WpF3Op0imA9F8TWj1uhqNew86TGcMYg+PciuImscnaFjR635bIcyGI+yai0s38IqCTWQLQ/6K+TN0Y9d7keSWm9Sy0zDt/0ZkAPHT93MvQo2LmQSJ4Y=
