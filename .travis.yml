@@ -1,14 +1,18 @@
+
 language: ruby
 rvm:
-- 2.2.2
-script:
-- bundle exec jekyll build
-- bundle exec htmlproofer ./_site --disable-external --allow-hash-href
+  - 2.2.2
+
+script: 
+  - "bundle exec jekyll build"
+  - "bundle exec htmlproofer ./_site --disable-external --allow-hash-href"  
+
+after_script:
+  - ./cloudflare_reset.sh
 branches:
   only:
-  - gh-pages
-after_script:
-- "./cloudflare_reset.sh"
+    - gh-pages
+
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
