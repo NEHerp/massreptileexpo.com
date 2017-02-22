@@ -1,32 +1,60 @@
 vendors: 
 
+  - name: A+ Serpents
+    url: https://www.facebook.com/APlusSerpents/
+    
   - name: Acadia Island Exotics
     url: https://www.facebook.com/SomethingFishy.mdi/
-    
-  - name: Beantown Arboreals 
+
+  - name: AP Exotic Pets
   
+  - name: Beantown Arboreals 
+ 
+  - name: Cold Blooded Pets
+    url: http://coldbloodedpets.com
+
+  - name: CV Exotics
+    url: https://www.facebook.com/CV-Exotics-180050035378873/
+    
   - name: Dinky Reptiles
     url: https://www.facebook.com/Dinkyreptilesandaquatics 
 
+  - name: Ectothermic Dungeon 
+    url: http://www.ectothermicdungeon.com
+    
   - name: Gecko Sanctuary
     url: http://www.geckosanctuary.org/
     
   - name: Groveland Geckos
     url: https://www.facebook.com/GrovelandGecko
 
-  - name: Joshua Galego
+  - name: Happy Herps
+    url: http://hhrr.webs.com/
+    
+  - name: Hilltop Hognose
   
+  - name: Joshua Galego
+ 
+  - name: JPCBoas
+    url: https://www.facebook.com/jpcboa
+    
   - name: New England Herpetological Society
     url: http://neherp.com
     
   - name: New England Reptile Shows  
     url: http://newenglandreptileshows.com
     
+  - name: Northeast Natural History & Supply   
+    url: https://sites.google.com/site/northeastnaturalhistory/
+    
   - name: Rowe Reptiles
     url: https://www.facebook.com/rowereptiles/
 
   - name: Sabrina's Reptile Kingdom
     url: https://www.facebook.com/Sabrinas-Reptile-Kingdom-128352193874603/
+
+  - name: Squeals On Wheels
+    url: https://www.facebook.com/squealsonwheelsfrozenfeeders/
     
   - name: Stacie's Spiders & Stuff
     url: https://www.facebook.com/Stacies-Spiders-Stuff-1592709497658197/    
