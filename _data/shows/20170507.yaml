@@ -15,7 +15,9 @@ vendors:
 
   - name: CV Exotics
     url: https://www.facebook.com/CV-Exotics-180050035378873/
-    
+
+  - name: Dennis Pet Supply
+  
   - name: Dinky Reptiles
     url: https://www.facebook.com/Dinkyreptilesandaquatics 
 
@@ -32,12 +34,22 @@ vendors:
     url: http://hhrr.webs.com/
     
   - name: Hilltop Hognose
-  
+
+  - name: It's A Pet's World
+    url: https://www.facebook.com/itsapetsworld/
+    
   - name: Joshua Galego
  
   - name: JPCBoas
     url: https://www.facebook.com/jpcboa
+
+  - name: Leapin lizards
     
+  - name: Loki Reptiles
+    url: https://www.facebook.com/LOKIREPTILES/  
+    
+  - name: New England Entomological Society
+  
   - name: New England Herpetological Society
     url: http://neherp.com
     
@@ -46,7 +58,11 @@ vendors:
     
   - name: Northeast Natural History & Supply   
     url: https://sites.google.com/site/northeastnaturalhistory/
-    
+
+  - name: Ouroboros Boas
+  
+  - name: Predthonidae Exotics
+  
   - name: Rowe Reptiles
     url: https://www.facebook.com/rowereptiles/
 
@@ -58,3 +74,6 @@ vendors:
     
   - name: Stacie's Spiders & Stuff
     url: https://www.facebook.com/Stacies-Spiders-Stuff-1592709497658197/    
+    
+  - name: The Angry Frog
+  
