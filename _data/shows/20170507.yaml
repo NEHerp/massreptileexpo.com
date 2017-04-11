@@ -6,6 +6,9 @@ vendors:
   - name: Acadia Island Exotics
     url: https://www.facebook.com/SomethingFishy.mdi/
 
+  - name: Action Reptiles
+    url: https://www.facebook.com/Action-Reptiles-305603720086
+    
   - name: AP Exotic Pets
   
   - name: Beantown Arboreals 
@@ -18,6 +21,9 @@ vendors:
 
   - name: Dennis Pet Supply
   
+  - name: Designer Dinos
+    url: https://www.facebook.com/DesignerDinos/
+ 
   - name: Dinky Reptiles
     url: https://www.facebook.com/Dinkyreptilesandaquatics 
 
@@ -59,6 +65,9 @@ vendors:
   - name: Northeast Natural History & Supply   
     url: https://sites.google.com/site/northeastnaturalhistory/
 
+  - name: Ocean State Aquatics
+    url: http://www.oceanstateaquatics.com/
+    
   - name: Ouroboros Boas
   
   - name: Predthonidae Exotics
@@ -69,6 +78,9 @@ vendors:
   - name: Sabrina's Reptile Kingdom
     url: https://www.facebook.com/Sabrinas-Reptile-Kingdom-128352193874603/
 
+  - name: Speckle Geckos
+    url: https://www.facebook.com/Speckles-Geckos-124354914377982/
+    
   - name: Squeals On Wheels
     url: https://www.facebook.com/squealsonwheelsfrozenfeeders/
     
@@ -77,3 +89,5 @@ vendors:
     
   - name: The Angry Frog
   
+  - name: Witch City Axolotls
+    url: https://www.facebook.com/WitchCityAxolotls/
