@@ -8,17 +8,25 @@ vendors:
 
   - name: Action Reptiles
     url: https://www.facebook.com/Action-Reptiles-305603720086
-    
+   
+  - name: Alan Flynn
+  
   - name: AP Exotic Pets
+  
+  - name: AquaAx
   
   - name: Beantown Arboreals 
  
+  - name: Classroom Cresteds
+  
   - name: Cold Blooded Pets
     url: http://coldbloodedpets.com
 
   - name: CV Exotics
     url: https://www.facebook.com/CV-Exotics-180050035378873/
 
+  - name: D&R Reptiles
+  
   - name: Dennis Pet Supply
   
   - name: Designer Dinos
@@ -36,9 +44,9 @@ vendors:
   - name: Groveland Geckos
     url: https://www.facebook.com/GrovelandGecko
 
-  - name: Happy Herps
-    url: http://hhrr.webs.com/
-    
+  - name: Harris in Wonderland 
+    url: http://harrisinwonderland.com/
+
   - name: Hilltop Hognose
 
   - name: It's A Pet's World
@@ -53,7 +61,9 @@ vendors:
     
   - name: Loki Reptiles
     url: https://www.facebook.com/LOKIREPTILES/  
-    
+
+  - name: Mojo Herps
+  
   - name: New England Entomological Society
   
   - name: New England Herpetological Society
@@ -88,6 +98,11 @@ vendors:
     url: https://www.facebook.com/Stacies-Spiders-Stuff-1592709497658197/    
     
   - name: The Angry Frog
+ 
+  - name: Troy Taylor
   
+  - name: VCA Wakefield Animal Hospital
+    url: http://www.vcahospitals.com/wakefield
+    
   - name: Witch City Axolotls
     url: https://www.facebook.com/WitchCityAxolotls/
