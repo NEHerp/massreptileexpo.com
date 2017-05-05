@@ -38,6 +38,8 @@ vendors:
   - name: Ectothermic Dungeon 
     url: http://www.ectothermicdungeon.com
     
+  - name: East Coast Reptile Exchange
+  
   - name: Gecko Sanctuary
     url: http://www.geckosanctuary.org/
     
@@ -51,6 +53,9 @@ vendors:
 
   - name: It's A Pet's World
     url: https://www.facebook.com/itsapetsworld/
+   
+  - name: JJO Reptiles
+    url: https://www.facebook.com/JJOReptile/
     
   - name: Joshua Galego
  
@@ -100,9 +105,6 @@ vendors:
   - name: The Angry Frog
  
   - name: Troy Taylor
-  
-  - name: VCA Wakefield Animal Hospital
-    url: http://www.vcahospitals.com/wakefield
     
   - name: Witch City Axolotls
     url: https://www.facebook.com/WitchCityAxolotls/
