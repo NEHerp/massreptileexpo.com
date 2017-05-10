@@ -44,7 +44,7 @@ Fee Schedule (per 6' space*):
 
 | Vendor Type | Table Fee |
 |-----------|---------|
-| Commercial Vendor Table - 6' x 30" | $40  |
+| Commercial Vendor Table - 6' x 30" | $45  |
 | Educational (Display Only, no sales allowed) | Free* |
 | Scientific Organization (Zoo, aquarium, science center) |	Free* |
 
